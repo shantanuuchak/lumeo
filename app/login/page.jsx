@@ -10,7 +10,7 @@ export default function Home() {
     <div className="min-h-[90vh] container mx-auto grid grid-cols-1 md:grid-cols-2 px-3 ">
       <div className="flex items-center">
         <h1 className="text-3xl md:text-5xl font-light tracking-wide">
-          Lumeo &mdash; Create Engaging Thumbnails Using GenAI
+          Lumeo &mdash; Sign In to Create Thumbnails Using GenAI
         </h1>
       </div>
 
@@ -36,7 +36,7 @@ export default function Home() {
           />
           <br />
           <button type="submit" className="btn">
-            Sign Up
+            Login
           </button>
         </form>
       </div>

@@ -8,7 +8,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" data-theme="black">
+    <html lang="en" data-theme="business">
       <body>
         <Header />
         {children}
