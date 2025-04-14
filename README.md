@@ -1,2 +1,3 @@
 # lumeo
-AI YouTube Video Thumbnail Creator
+
+AI YouTube Video Thumbnail Creator w/ Qwen
