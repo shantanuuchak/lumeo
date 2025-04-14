@@ -4,6 +4,7 @@
     "": {
       "name": "lumeo",
       "dependencies": {
+        "@fontsource-variable/sora": "^5.2.5",
         "@tailwindcss/postcss": "^4.1.3",
         "next": "^15.3.0",
         "postcss": "^8.5.3",
@@ -20,6 +21,8 @@
     "@alloc/quick-lru": ["@alloc/quick-lru@5.2.0", "", {}, "sha512-UrcABB+4bUrFABwbluTIBErXwvbsU/V7TZWfmbgJfbkwiBuziS9gxdODUyuiecfdGQ85jglMW6juS3+z5TsKLw=="],
 
     "@emnapi/runtime": ["@emnapi/runtime@1.4.1", "", { "dependencies": { "tslib": "^2.4.0" } }, "sha512-LMshMVP0ZhACNjQNYXiU1iZJ6QCcv0lUdPDPugqGvCGXt5xtRVBPdtA0qU12pEXZzpWAhWlZYptfdAFq10DOVQ=="],
+
+    "@fontsource-variable/sora": ["@fontsource-variable/sora@5.2.5", "", {}, "sha512-SNS88JcSleEcqN5j1S0WWltrC9VtIckaSYNm1cpL+LjI5UgGTOwMRcOw7O9It3TOrKlpHFliY7u2Cni5BvxR0w=="],
 
     "@img/sharp-darwin-arm64": ["@img/sharp-darwin-arm64@0.34.1", "", { "optionalDependencies": { "@img/sharp-libvips-darwin-arm64": "1.1.0" }, "os": "darwin", "cpu": "arm64" }, "sha512-pn44xgBtgpEbZsu+lWf2KNb6OAf70X68k+yk69Ic2Xz11zHR/w24/U49XT7AeRwJ0Px+mhALhU5LPci1Aymk7A=="],
 

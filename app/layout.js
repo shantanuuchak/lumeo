@@ -1,4 +1,6 @@
 import "./global.css";
+import "@fontsource-variable/sora";
+
 import Header from "@/components/Header";
 
 export const metadata = {
